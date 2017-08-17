@@ -1,4 +1,4 @@
-package trade.settlementDate.rank.calculator;
+package trade.settlementCalculator;
 
 import java.time.LocalDate;
 import java.util.Currency;

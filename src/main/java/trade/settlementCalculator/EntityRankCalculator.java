@@ -1,4 +1,4 @@
-package trade.settlementDate.rank.calculator;
+package trade.settlementCalculator;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;

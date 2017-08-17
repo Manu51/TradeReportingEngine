@@ -8,8 +8,8 @@ import java.util.Set;
 
 import trade.entity.rank.EntityRank;
 import trade.model.Instruction;
-import trade.settlementDate.rank.calculator.EntityRankCalculator;
-import trade.settlementDate.rank.calculator.InstructionSettlementDateCalculator;
+import trade.settlementCalculator.EntityRankCalculator;
+import trade.settlementCalculator.InstructionSettlementDateCalculator;
 
 public class ReportGeneratorImpl implements ReportGenerator {
 

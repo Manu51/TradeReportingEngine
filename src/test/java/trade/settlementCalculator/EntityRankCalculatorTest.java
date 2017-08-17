@@ -1,4 +1,4 @@
-package trade.settlement.calculator;
+package trade.settlementCalculator;
 
 import static org.junit.Assert.*;
 
@@ -16,8 +16,8 @@ import org.junit.Test;
 import trade.entity.rank.EntityRank;
 import trade.model.Instruction;
 import trade.model.Instruction.TradeAction;
-import trade.settlementDate.rank.calculator.EntityRankCalculator;
-import trade.settlementDate.rank.calculator.InstructionSettlementDateCalculator;
+import trade.settlementCalculator.EntityRankCalculator;
+import trade.settlementCalculator.InstructionSettlementDateCalculator;
 
 public class EntityRankCalculatorTest {
 
